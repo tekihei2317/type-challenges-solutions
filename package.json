@@ -1,0 +1,24 @@
+{
+  "name": "type-challenges-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekihei2317/type-challenges-solutions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tekihei2317/type-challenges-solutions/issues"
+  },
+  "homepage": "https://github.com/tekihei2317/type-challenges-solutions#readme",
+  "devDependencies": {
+    "prettier": "^2.6.2",
+    "typescript": "^4.6.3"
+  }
+}
